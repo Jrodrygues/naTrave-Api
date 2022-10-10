@@ -2,8 +2,6 @@
 
 Projeto desenvolvido no evento Full Stack Challenge da Codar.me.
 
-# natrave-web
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
