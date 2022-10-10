@@ -4,9 +4,9 @@ import cors from '@Koa/cors'
 
 import { router } from './router.js'
 
-export const api = new Koa()
+export const app = new Koa()
 
-api.use(cors())
-api.use(bodyParser())
-api.use(router.routes())
-api.use(router.allowedMethods())
+app.use(cors())
+app.use(bodyParser())
+app.use(router.routes())
+app.use(router.allowedMethods())
